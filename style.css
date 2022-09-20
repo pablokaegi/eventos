@@ -9,3 +9,12 @@
     padding-bottom: 5px;
 }
 
+#encabezado {
+   font-size: 26px;
+   margin-top: 5px;
+   font-family: Impact;
+   background-color: cadetblue;
+   text-align: left; 
+   padding: 20px;
+   font-style: italic;
+}
