@@ -8,7 +8,10 @@ function Calculoviaje (precio,pasajeros){
     alert ("El costo Neto es: $"+ costo);
 }
 
+
 let boton= document.getElementById('boton');
 boton.addEventListener('click',()=> Calculoviaje ());
+
+
 
 

@@ -52,17 +52,20 @@ p {
     color: #fff;
 }
 
-
-
-
   #form {
-    color: #fff;
+    color: rgb(10, 2, 2);
     padding: 15px;
-    margin-top: 5px;
     margin-left: 5px;
     text-align: left;
     font-size: 16px;
     font-family: verdana;
-    margin-bottom: 10px;
-    padding-bottom: 5px;
+    margin-bottom: 7px;
+    margin-bottom: 7px;
+
+}
+#seccion{
+    font-size: 16px;
+    font-family: Open Sans;
+    color:blueviolet;
+    list-style: none;
 }
